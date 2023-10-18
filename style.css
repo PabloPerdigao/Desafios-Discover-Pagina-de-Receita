@@ -13,13 +13,28 @@
   background-color: #FFFFFF;
  }
  
+ h1 {
+  font-size: 28px;
+ }
 
-h1 strong{
+h3 {
+  font-size: 20px;
+}
+
+h1 h3 {
 color: #1B1B1B;
 font-weight: 700;
+}
+
+ul li {
+  font-size: 6px;
 }
 
 footer {
  color: #8F8F8F; 
  font-weight: 400;
+}
+
+footer figcaption {
+  font-size: 12px;
 }
