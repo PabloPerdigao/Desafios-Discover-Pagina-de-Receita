@@ -11,6 +11,10 @@
  .container {
   background-color: #FFFFFF;
   font-family: 'Roboto', sans-serif;
+  width: 70%;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 10px;
  }
  
  h1 {
@@ -20,12 +24,14 @@
    font-weight: 700;
  }
 
- waffe {
-
+ waffle {
+ width: 100%;
+ height: 250px;
  }
 
  figcaption {
   font-size: 12px;
+  text-align: right;
  }
 
   h3 {
@@ -40,12 +46,14 @@
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
+  list-style-position:inside
  }
 
  ol li  {
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
+  list-style-position:inside
  }
 
  p {
