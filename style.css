@@ -3,3 +3,11 @@
   padding: 0;
   box-sizing: border-box;
  }
+
+ body {
+  background: #EAEAEA ; 
+ }
+
+ .container {
+  background-color: #FFFFFF;
+ }
