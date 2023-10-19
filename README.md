@@ -1,5 +1,5 @@
 <h1 
- align="center">👨🏼‍💻Projeto-Dicover I Página de Receita</br> 🚀👨🏼‍🚀#desafiosdiscover
+ align="center">👨🏼‍💻Projeto-Discover I Página de Receita 🧇</br> 🚀👨🏼‍🚀#desafiosdiscover
 </h1>
 
 <br/>
