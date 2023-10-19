@@ -24,7 +24,7 @@
    font-weight: 700;
  }
 
- waffle {
+ .recipe-image {
  width: 100%;
  height: 250px;
  border-radius: 10px;
